@@ -6,7 +6,7 @@
                 <div class="col text-center no-padding">
                     <div class="flexslider" data-animation="fade" data-control-nav="false" data-custom-direction-nav=".custom-navigation a" style="height: auto;" data-pause-on-action="false">
                         <ul class="list-unstyled slides" style="height: auto;display: block;">
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/01.jpg">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/01.jpg?h=358c7cfe027c9a7d95b1283f966df1e3">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -14,7 +14,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>نهدف الي خلق علاقات راسخة مع عملاؤنا <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/02.jpg">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/02.jpg?h=8033209be068c5fbce0f691b513e5751">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -22,7 +22,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>باتري هوم تضمن منتجاتها ضد عيوب الصناعة <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/03.jpg">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/03.jpg?h=fac1cd8e0282b831fee00bea2795f397">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -30,7 +30,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>أطار عربيتك = أمنك وأمن عائلتك<br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/04.jpg">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/04.jpg?h=18d43cffc069d2ab8268a07fbc176547">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -38,7 +38,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>باتري هوم تضمن منتجاتها ضد عيوب الصناعة <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/05.jpg">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/05.jpg?h=1e9a3f078578b95e63b4596a0b8ed260">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">

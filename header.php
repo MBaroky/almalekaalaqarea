@@ -9,36 +9,30 @@
     <meta name="twitter:description" content="">
     <meta property="og:type" content="website">
     <meta name="description" content="">
-    <meta name="twitter:image" content="assets/img/logoo-maleka.png">
-    <meta property="og:image" content="assets/img/logoo-maleka.png">
+    <meta name="twitter:image" content="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <meta property="og:image" content="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
     <meta property="og:title" content="الملكة العقارية">
     <meta name="twitter:title" content="الملكة العقارية">
-    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png">
-    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png">
-    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png">
-    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png">
-    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css?h=d5c1352eb7d995422275c58abdef2b18">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cairo">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Changa">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,900">
-    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/fonts/line-awesome.min.css">
-    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
-    <link rel="stylesheet" href="assets/css/contact-html.css">
-    <link rel="stylesheet" href="assets/css/flex-slider.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
+    <link rel="stylesheet" href="assets/fonts/line-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=9d01f86409309d70d16acf9c7e53b3fa">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-    <link rel="stylesheet" href="assets/css/icon-anim.css">
-    <link rel="stylesheet" href="assets/css/language-mobile.css">
-    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
-    <link rel="stylesheet" href="assets/css/Social-Icons.css">
-    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body style="background-size: 0;background-color: #fff;">
@@ -66,7 +60,7 @@ function isMobile() {
                         </div>
                     </nav>
                 </div>
-                <div class="col-6 col-md-2 text-center p-0" id="logo-wrapper" style="height: auto;"><a class="d-inline-block" id="logo-link" href="index.php"><img class="img-fluid" id="logo" src="assets/img/logoo-maleka-432w.png" width="190px" style="margin-top: 3px;margin-bottom: 5px;"></a></div>
+                <div class="col-6 col-md-2 text-center p-0" id="logo-wrapper" style="height: auto;"><a class="d-inline-block" id="logo-link" href="index.php"><img class="img-fluid" id="logo" src="assets/img/logoo-maleka-432w.png?h=794e9243b17bfa9515367069dd3df7ab" width="190px" style="margin-top: 3px;margin-bottom: 5px;"></a></div>
                 <div class="col-3 col-md-1 d-flex d-md-none justify-content-center align-items-center no-padding">
                     <div class="btn-group d-none d-md-flex lang" role="group"><a class="btn btn-light disabled btn-sm border rounded-0" role="button" href="../<?php echo basename($_SERVER['PHP_SELF']);?>">AR</a><a class="btn btn-light btn-sm border rounded-0" role="button" href="en/<?php echo basename($_SERVER['PHP_SELF']);?>">EN</a></div>
                     <a
