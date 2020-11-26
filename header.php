@@ -61,9 +61,8 @@ function isMobile() {
                                     <div class="collapse navbar-collapse"
                                         id="navbarResponsive" style="margin-top: 0;">
                                         <ul class="nav navbar-nav text-right p-0" id="parentNav">
-                                            <li class="nav-item text-center <?= ($activePage == 'index') ? 'active':''; ?>" role="presentation"><span class="d-none d-md-inline style"></span><a class="nav-link float-none main-button" href="index.php"><strong>الرئيسية</strong></a></li>
-                                            <li class="nav-item text-center pl-0 <?= ($activePage == 'contact') ? 'active':''; ?>"
-                                                role="presentation"><span class="d-none d-md-inline style"></span><a class="nav-link main-button" href="contact.php"><strong>اتصل بنا</strong></a></li>
+                                            <li class="nav-item text-center <?= ($activePage == 'index') ? 'active':''; ?>" role="presentation"><a class="nav-link float-none main-button" href="index.php"><strong>الرئيسية</strong></a></li>
+                                            <li class="nav-item text-center pl-0 <?= ($activePage == 'contact') ? 'active':''; ?>" role="presentation"><a class="nav-link main-button" href="contact.php"><strong>اتصل بنا</strong></a></li>
                                         </ul>
                                     </div>
                                 </div>
