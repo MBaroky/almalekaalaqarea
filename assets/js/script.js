@@ -64,9 +64,9 @@ $(window).on('scroll', function(){
     isStuck(topNav);
 
     if ($(window).scrollTop() > 50){
-        $('#mainNav').addClass('scrolled');
+        $('#main-header').addClass('scrolled');
     }else{
-        $('#mainNav').removeClass('scrolled');
+        $('#main-header').removeClass('scrolled');
     }
 });
 

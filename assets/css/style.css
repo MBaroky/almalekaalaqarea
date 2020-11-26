@@ -128,7 +128,7 @@ section {
 
 .btn {
   font-family: Cairo, sans-serif;
-  margin: 20px auto;
+  margin: 0px auto;
 }
 
 .bottom {
@@ -244,6 +244,7 @@ label {
   overflow: hidden;
   color: #000;
   font-size: 14px;
+  transition: all ease-in-out 0.4s;
 }
 
 @media (min-width: 768px) {
@@ -354,11 +355,29 @@ html[lang="en"] .rtl.tabs {
 }
 
 @media (min-width: 768px) {
+  #main-header.scrolled #logo {
+    max-height: 74px;
+  }
+}
+
+@media (min-width: 768px) {
   #logo-link {
     position: absolute;
     width: 100%;
     top: 0;
     left: 0;
   }
+}
+
+@media (min-width: 768px) {
+  #main-header.scrolled #parentNav.navbar-nav > .nav-item .nav-link {
+    padding: 30px 10px 30px;
+  }
+}
+
+#logo {
+  transition: all 0.4s ease-in-out;
+  width: auto;
+  max-height: 150px;
 }
 

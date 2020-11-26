@@ -50,7 +50,7 @@ function isMobile() {
 ?>
 
 
-    <header id="main-header" class="bottom" style="border-top: 6px #cc3e3d solid;">
+    <header id="main-header" style="border-top: 6px #cc3e3d solid;">
         <div class="container" style="background-color: #fff;">
             <div class="row align-items-stretch justify-content-md-start rtl">
                 <div class="col-3 col-md-5 d-flex d-md-block justify-content-end">
@@ -72,7 +72,7 @@ function isMobile() {
                     <a
                         class="btn" role="button" href="tel:01202855556" style="box-shadow: none;"><i class="fa fa-phone" style="font-size: 2em;"></i></a>
                 </div>
-                <div class="col-3 col-md-5 d-flex flex-column justify-content-between align-items-stretch align-self-center align-self-md-stretch">
+                <div class="col-3 col-md-5 d-flex flex-column justify-content-center align-items-stretch align-self-center align-self-md-stretch">
                     <div class="row d-none d-md-flex">
                         <div class="col text-left"><a class="btn d-flex justify-content-center" role="button" href="tel:01202855556" style="box-shadow: none;">01202855556&nbsp;<i class="fa fa-phone" style="font-size: 21px;margin: 0 5px;"></i></a></div>
                         <div class="col-md-5 align-self-center p-0"
