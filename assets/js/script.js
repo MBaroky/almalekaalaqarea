@@ -76,19 +76,20 @@ function fixedHeight(elm){
         return $(elm).outerHeight();
     }
 }
-let headerHeight = fixedHeight('header#main-header');
+let headerHeight = 'header#main-header';
 const $successMessage = $("#sentMailSuc");
 const $formWrap = $('.form-wrapper');
 // fixed header add padding to body
 $(window).on('load resize', function(){
-    $('body').css('padding-top', headerHeight);
-    $successMessage && $successMessage.css({paddingTop : headerHeight});
-    $formWrap && $formWrap.css({minHeight:headerHeight + $successMessage.outerHeight()});
+    console.log(fixedHeight(headerHeight));
+    $('body').css('padding-top', fixedHeight(headerHeight));
+    $successMessage && $successMessage.css({paddingTop : fixedHeight(headerHeight)});
+    $formWrap && $formWrap.css({minHeight:fixedHeight(headerHeight) + $successMessage.outerHeight()});
 });
 $(document).ready(function(){
-     $('body').css('padding-top', headerHeight);
-     $successMessage && $successMessage.css({paddingTop : headerHeight});
-     $formWrap && $formWrap.css({minHeight:headerHeight + $successMessage.outerHeight()});
+     $('body').css('padding-top', fixedHeight(headerHeight));
+     $successMessage && $successMessage.css({paddingTop : fixedHeight(headerHeight)});
+     $formWrap && $formWrap.css({minHeight:fixedHeight(headerHeight) + $successMessage.outerHeight()});
 
 });
 

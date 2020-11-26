@@ -371,7 +371,6 @@ html[lang="en"] .rtl.tabs {
 
 @media (min-width: 768px) {
   #main-header.scrolled #parentNav.navbar-nav > .nav-item .nav-link {
-    padding: 30px 10px 30px;
   }
 }
 
