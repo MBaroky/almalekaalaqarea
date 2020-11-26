@@ -51,26 +51,22 @@ function isMobile() {
 
 
     <header id="main-header" class="bottom" style="border-top: 6px #cc3e3d solid;">
-        <div class="container-fluid" style="background-color: #fff;">
+        <div class="container" style="background-color: #fff;">
             <div class="row align-items-stretch justify-content-md-start rtl">
-                <div class="col-3 col-md-5 d-flex flex-column justify-content-between align-items-stretch align-self-center align-self-md-stretch">
-                    <div class="row">
-                        <div class="col p-0">
-                            <nav class="navbar navbar-light navbar-expand-md ltr" id="mainNav" style="background-color: transparent;font-family: Changa, sans-serif;">
-                                <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler b-0" data-target="#navbarResponsive"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-                                    <div class="collapse navbar-collapse"
-                                        id="navbarResponsive" style="margin-top: 0;">
-                                        <ul class="nav navbar-nav text-right p-0" id="parentNav">
-                                            <li class="nav-item text-center <?= ($activePage == 'index') ? 'active':''; ?>" role="presentation"><a class="nav-link float-none main-button" href="index.php"><strong>الرئيسية</strong></a></li>
-                                            <li class="nav-item text-center pl-0 <?= ($activePage == 'contact') ? 'active':''; ?>" role="presentation"><a class="nav-link main-button" href="contact.php"><strong>اتصل بنا</strong></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </nav>
+                <div class="col-3 col-md-5 d-flex d-md-block justify-content-end">
+                    <nav class="navbar navbar-light navbar-expand-md ltr" id="mainNav" style="background-color: transparent;font-family: Changa, sans-serif;">
+                        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler b-0" data-target="#navbarResponsive"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                            <div class="collapse navbar-collapse" id="navbarResponsive"
+                                style="margin-top: 0;">
+                                <ul class="nav navbar-nav text-right p-0" id="parentNav">
+                                    <li class="nav-item text-center <?= ($activePage == 'index') ? 'active':''; ?>" role="presentation"><a class="nav-link float-none main-button" href="index.php"><strong>الرئيسية</strong></a></li>
+                                    <li class="nav-item text-center pl-0 <?= ($activePage == 'contact') ? 'active':''; ?>" role="presentation"><a class="nav-link main-button" href="contact.php"><strong>اتصل بنا</strong></a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
+                    </nav>
                 </div>
-                <div class="col-6 col-md-2 offset-md-0 text-center align-self-center p-0" id="logo-wrapper"><a class="d-inline-block" href="index.php"><img class="img-fluid" id="logo" src="assets/img/logoo-maleka-432w.png" width="190px" style="margin-top: 3px;margin-bottom: 5px;"></a></div>
+                <div class="col-6 col-md-2 text-center p-0" id="logo-wrapper" style="height: auto;"><a class="d-inline-block" id="logo-link" href="index.php"><img class="img-fluid" id="logo" src="assets/img/logoo-maleka-432w.png" width="190px" style="margin-top: 3px;margin-bottom: 5px;"></a></div>
                 <div class="col-3 col-md-1 d-flex d-md-none justify-content-center align-items-center no-padding">
                     <div class="btn-group d-none d-md-flex lang" role="group"><a class="btn btn-light disabled btn-sm border rounded-0" role="button" href="../<?php echo basename($_SERVER['PHP_SELF']);?>">AR</a><a class="btn btn-light btn-sm border rounded-0" role="button" href="en/<?php echo basename($_SERVER['PHP_SELF']);?>">EN</a></div>
                     <a
@@ -78,8 +74,9 @@ function isMobile() {
                 </div>
                 <div class="col-3 col-md-5 d-flex flex-column justify-content-between align-items-stretch align-self-center align-self-md-stretch">
                     <div class="row d-none d-md-flex">
-                        <div class="col text-left"><a class="btn" role="button" href="tel:01202855556" style="box-shadow: none;">01202855556&nbsp;<i class="fa fa-phone"></i></a></div>
-                        <div class="col-md-5 align-self-center p-0">
+                        <div class="col text-left"><a class="btn d-flex justify-content-center" role="button" href="tel:01202855556" style="box-shadow: none;">01202855556&nbsp;<i class="fa fa-phone" style="font-size: 21px;margin: 0 5px;"></i></a></div>
+                        <div class="col-md-5 align-self-center p-0"
+                            style="padding-top: 10px;border-right: 1px black solid;">
                             <div class="btn-group d-inline-block social-icons" role="group" style="width: auto;margin-top: 0;"><a class="btn border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0" role="button" style="margin-right: 10px;" href="https://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-108292030626522/"><i class="fa fa-facebook-f" style="background-color: #cc3e3d;"></i></a>
                                 <a
                                     class="btn border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0" role="button" href="mailto:elmalekaalaqarea@gmail.com"><i class="fa fa-envelope-o" style="background-color: #cc3e3d;"></i></a>
