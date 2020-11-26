@@ -6,7 +6,7 @@
                 <div class="col text-center no-padding">
                     <div class="flexslider" data-animation="fade" data-control-nav="false" data-custom-direction-nav=".custom-navigation a" style="height: auto;" data-pause-on-action="false">
                         <ul class="list-unstyled slides" style="height: auto;display: block;">
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/01.jpg?h=358c7cfe027c9a7d95b1283f966df1e3">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/slid-maleka02-1920w.png?h=1cc51198471fbed5befd6b67be6846e2">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -14,7 +14,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>نهدف الي خلق علاقات راسخة مع عملاؤنا <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/02.jpg?h=8033209be068c5fbce0f691b513e5751">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/D8A7D984D985D984D983D8A9-D8A7D984D8B9D982D8A7D8B1D98AD8A9-elmaleka-realestate281329JPG.jpg?h=b1d6b80ae59ccb563798c08fb58e46f1">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -22,7 +22,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>باتري هوم تضمن منتجاتها ضد عيوب الصناعة <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/03.jpg?h=fac1cd8e0282b831fee00bea2795f397">
+                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/slid-maleka01-1920w.png?h=5970481139c885e284adca2e4faf3b45">
                                 <div class="color-overlay"></div>
                                 <div class="slide-inner">
                                     <div class="text-center text-wrapper">
@@ -30,25 +30,7 @@
                                         <p class="text-center slide-text">انطلق بلا قلق<br>أطار عربيتك = أمنك وأمن عائلتك<br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
                                 </div>
                             </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/04.jpg?h=18d43cffc069d2ab8268a07fbc176547">
-                                <div class="color-overlay"></div>
-                                <div class="slide-inner">
-                                    <div class="text-center text-wrapper">
-                                        <h2 class="slide-title"><strong>باترى هوم للاطارات والبطاريات</strong></h2>
-                                        <p class="text-center slide-text">انطلق بلا قلق<br>باتري هوم تضمن منتجاتها ضد عيوب الصناعة <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
-                                </div>
-                            </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/05.jpg?h=1e9a3f078578b95e63b4596a0b8ed260">
-                                <div class="color-overlay"></div>
-                                <div class="slide-inner">
-                                    <div class="text-center text-wrapper">
-                                        <h2 class="slide-title"><strong>باترى هوم للاطارات والبطاريات</strong></h2>
-                                        <p class="text-center slide-text">انطلق بلا قلق<br>أكثر من ثلاثون سنة خبرة <br><br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
-                                </div>
-                            </li>
                         </ul>
-                        <div class="custom-navigation"><a class="btn btn-dark btn-lg border rounded-0 flex-prev main-button" role="button" style="color: rgb(255,255,255);margin-right: 50px;float: left;" href="#"><i class="fa fa-angle-left"></i><span></span></a><a class="btn btn-dark btn-lg border rounded-0 flex-next main-button"
-                                role="button" style="float: right;" href="#"><i class="fa fa-angle-right"></i><span></span></a></div>
                     </div>
                 </div>
             </div>

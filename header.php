@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
     <link rel="stylesheet" href="assets/fonts/line-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
     <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
-    <link rel="stylesheet" href="assets/css/styles.min.css?h=9d01f86409309d70d16acf9c7e53b3fa">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=5b48a8ae2683379f43acd53876f8557c">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
