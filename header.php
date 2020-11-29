@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,900">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
     <link rel="stylesheet" href="assets/fonts/ionicons.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
-    <link rel="stylesheet" href="assets/css/styles.min.css?h=ecbc0ea2171b7e6d2044f3487a3815ea">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=da46b2974d961bdadc71042310ff1e7b">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
