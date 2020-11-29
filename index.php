@@ -31,7 +31,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div><span class="abs-center" style="z-index: 10;"><img src="assets/img/name-company-0dabc692.png?h=10513b69072b118e0a4458e263a80400"></span></div>
+                    </div><span class="abs-center" style="z-index: 10;"><img src="assets/img/name-company-0dabc692.png?h=10513b69072b118e0a4458e263a80400" style="max-width: 70vw;"></span></div>
             </div>
         </div>
     </section>
