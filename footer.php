@@ -1,55 +1,42 @@
     <!--start of footer-->
-    <section class="text-center" style="padding: 40px 0 0;">
-        <div class="container-fluid">
-            <div class="row row-cols-1 row-cols-md-5 rtl">
-                <div class="col text-center">
-                    <div class="d-flex justify-content-center align-items-center icon-wrapper-1"><i class="la la-map-marker icon-1" style="color: rgba(255,255,255,1);font-size: 35px;"></i></div>
-                    <p style="width: 740px;margin-top: 30px;">المنطقة الصناعية الثانية قطعة 165- 166، النوبارية الجديدة، البحيرة<br></p>
-                </div>
-                <div class="col text-center">
-                    <div class="d-flex justify-content-center align-items-center icon-wrapper-1"><i class="la la-envelope icon-1" style="color: rgba(255,255,255,1);font-size: 35px;"></i></div>
-                    <p class="text-break links-wrapper" style="width: 740px;margin-top: 30px;"><a href="mailto:info@growthchem-eg.com">info@growthchem-eg.com&nbsp;</a><br><a href="mailto:registration@growthchem-eg.com">registration@growthchem-eg.com</a><br></p>
-                </div>
-                <div class="col text-center">
-                    <div class="d-flex justify-content-center align-items-center icon-wrapper-1"><i class="icon-screen-smartphone icon-1" style="color: rgba(255,255,255,1);font-size: 35px;"></i></div>
-                    <p class="ltr" style="width: 740px;margin-top: 30px;"><a href="tel:+2 01151555005">+2 01151555005</a><br></p>
-                </div>
-                <div class="col text-center">
-                    <div class="d-flex justify-content-center align-items-center icon-wrapper-1"><i class="la la-phone icon-1" style="color: rgba(255,255,255,1);font-size: 35px;"></i></div>
-                    <p class="ltr" style="width: 740px;margin-top: 30px;"><a href="tel:+2 0452634940">+2 0452634940&nbsp;</a><br><a href="tel:+2 0452634996">+2 0452634996&nbsp;</a><br></p>
-                </div>
-                <div class="col text-center">
-                    <div class="d-flex justify-content-center align-items-center icon-wrapper-1"><i class="la la-whatsapp icon-1" style="color: rgba(255,255,255,1);font-size: 35px;"></i></div><a class="btn btn-link btn-sm text-nowrap ltr" role="button" href="<?= (isMobile()) ? 'https://wa.me/+2%2001020952952':'https://web.whatsapp.com/send?phone=+2%2001020952952'; ?>"
-                        style="width: 100%;box-shadow: none;">+2 01020952952</a></div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row row-cols-1 rtl">
-                <div class="col text-center"><a class="btn btn-outline-success btn-lg d-flex float-none justify-content-between" role="button" href="https://www.google.com/maps/place/30%C2%B039'30.3%22N+30%C2%B004'47.9%22E/@30.6584167,30.0821505,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d30.6584167!4d30.0799618?hl=ar&amp;shorturl=1"
-                        style="width: 240px;" target="_blank"><span style="flex: 1;">اعرف الطريق</span><span><i class="fa fa-location-arrow"></i></span></a></div>
-                <div class="col text-center p-0 map-wrap"><span class="d-block" style="width: 100%;line-height: 0.8;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3432.1318080825076!2d30.082160884870245!3d30.658416681663027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDM5JzMwLjMiTiAzMMKwMDQnNDcuOSJF!5e0!3m2!1sar!2seg!4v1600940939413!5m2!1sar!2seg" width="100%" height="450" frameborder="0" style="border:0;margin:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></span>
-                </div>
-            </div>
-        </div>
-    </section>
-    <footer class="footer text-faded text-center py-3" style="background-color: #85B707;padding: 10px 0;">
-        <div class="container-fluid">
+    <footer class="text-white text-center" style="background-color: var(--main-color);padding: 10px 0;">
+        <div class="container-fluid py-3" style="border-bottom: 1px solid white;">
             <div class="row">
-                <div class="col text-center d-inline-block align-self-start">
-                    <p style="color: #fff;font-size: 40px;font-weight: 300;font-family: 'Josefin Sans', sans-serif;">Grow Your <strong>Bussiness</strong></p><a class="btn border rounded-circle border-white d-inline-flex justify-content-center align-items-center s-0 social-icon" role="button" style="margin-right: 10px;" href="https://www.facebook.com/pages/category/Chemical-Company/%D8%AC%D8%B1%D9%88%D8%B3-%D9%83%D9%8A%D9%85-%D9%84%D9%84%D9%83%D9%8A%D9%85%D8%A7%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%88%D8%B1%D8%A9-Growth-chem-for-Advanced-chemicals-2273195822921032/"><i class="fa fa-facebook-f"></i></a>
+                <div class="col-md-3 text-center d-inline-block align-self-start">
+                    <h5><strong>شارك موقعنا على</strong></h5>
+                    <hr style="width: 50px;border: 1px solid white;">
+                    <div class="social-icons" style="padding: 0 0 10px;"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.almalekaalaqarea.com" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="http://twitter.com/intent/tweet?text=I wanted to share this great website with you&amp;url=http%3A%2F%2Fwww.almalekaalaqarea.com"
+                            target="_blank"><i class="icon ion-social-twitter"></i></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.almalekaalaqarea.com&amp;title=I wanted to share this great website with you" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a
+                            href="https://api.whatsapp.com/send?text=I wanted to share this great website with you https://www.almalekaalaqarea.com/" target="_blank"><i class="icon ion-social-whatsapp-outline"></i></a><a href="mailto:?subject=I wanted to share this great website with you&amp;body=http%3A%2F%2Fwww.almalekaalaqarea.com" target="_blank"><i class="fa fa-envelope-o"></i></a></div>
+                </div>
+                <div class="col-md-3 text-center d-inline-block align-self-start">
+                    <h5><strong>تواصل معنا عبر</strong><br></h5>
+                    <hr style="width: 50px;border: 1px solid white;">
+                    <div class="social-icons" style="padding: 0 0 10px;"><a href="https://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-108292030626522/" target="_blank"><i class="icon ion-social-facebook"></i></a><a href="mailto:elmalekaalaqarea@gmail.com"
+                            target="_blank"><i class="fa fa-envelope-o"></i></a></div>
+                </div>
+                <div class="col-md-3 text-center d-inline-block d-sm-flex flex-column align-self-start justify-content-sm-center">
+                    <h5><strong>اتصل بنا</strong><br></h5>
+                    <hr style="width: 50px;border: 1px solid white;">
+                    <h6><strong>التليفون الارضى</strong><br></h6><a class="btn text-center text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="tel:0221923161" style="display: inline-block;"
+                        target="_blank"><span style="display: inline-block;">0221923161<br></span></a>
+                    <h6 style="display: block;"><strong>خدمه العملاء</strong><br></h6><a class="btn text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="tel:01202855556" style="display: inline-block;" target="_blank"><span>01202855556<br></span></a>
                     <a
-                        class="btn border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0" role="button" href="<?= (isMobile()) ? 'https://wa.me/+2%2001020952952':'https://web.whatsapp.com/send?phone=+2%2001020952952'; ?>"><i class="fa fa-whatsapp" style="background-color: #cc3e3d;font-size: 2.5em;"></i></a>
+                        class="btn text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="<?= (isMobile()) ? 'https://wa.me/201202855556':'https://web.whatsapp.com/send?phone=201202855556'; ?>"
+                        style="display: inline-block;max-width: 100%;" target="_blank"><img src="assets/img/svg-whatsapp.svg?h=abfc4958e6da89bfaddae74481deb971" style="<?= (isMobile()) ? 'width: 26px;height: 50px;margin-right: 10px;':'width: 50px;height: 50px;margin-right: 10px;'; ?>"><span>+201202855556<br></span></a>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col p-0">
-                    <hr style="background-color: #ffffff;width: 100%;margin: 0;">
-                </div>
+                <div class="col-md-3 text-center d-inline-block align-self-start">
+                    <h5><strong>العنوان</strong><br></h5>
+                    <hr style="width: 50px;border: 1px solid white;">
+                    <p class="text-white">بجوار محطة مترو عمر بن الخطاب، الدور الثالث، مكتب رقم 305</p><button class="btn text-white d-md-flex align-items-md-center" type="button" style="background-color: #EC0707;margin-top: 20px;border-radius: 30px;"><span>&nbsp; إعرف الطريق&nbsp;&nbsp;</span><i class="fa fa-map-marker" style="margin-right: 10px;font-size: 26px;"></i></button></div>
             </div>
         </div>
         <div class="container">
-            <div class="row row-cols-1 row-cols-md-2">
-                <div class="col text-left p-0"><div class="published" style="text-align:center;width:100%"> <a href="http://www.yellowmedia.com.eg/en/" target="_blank" style="text-decoration:none; border:0; outline:0;" raw_url="http://www.yellowmedia.com.eg/en/"> <h4 style="display:inline;text-transform:uppercase; font-weight:200;font-size:15px; font-family:'Calibri'; margin-right:2px">published by</h4> 
+            <div class="row row-cols-1 row-cols-md-2 d-md-flex justify-content-md-center">
+                <div class="col-12 text-left p-0">
+                    <p class="text-center small copyrights" style="color: #fff;">جميع الحقوق محفوظة | الملكة العقارية&nbsp;©<span class="current-year"><?php echo date("Y"); ?></span>
+                    </p><div class="published" style="text-align:center;width:100%"> <a href="http://www.yellowmedia.com.eg/en/" target="_blank" style="text-decoration:none; border:0; outline:0;" raw_url="http://www.yellowmedia.com.eg/en/"> <h4 style="display:inline;text-transform:uppercase; font-weight:200;font-size:15px; font-family:'Calibri'; margin-right:2px">published by</h4> 
  <span class="yellow-logo" style="display:inline"> <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="111.578px" height="22.3px" viewBox="0 0 111.578 22.3" enable-background="new 0 0 111.578 22.3" xml:space="preserve"> <g> <g id="yellow-tm"> <path fill="#fff" d="M23.05,22.193V22.3h-0.494c0.097-0.442,0.353-0.787,0.776-1.017c0.326-0.186,0.503-0.397,0.529-0.637
     			c0.848-0.654,1.65-1.404,2.4-2.244c0.468-0.566,1.165-1.406,2.092-2.511c0.282-0.309,0.626-0.813,1.023-1.52
     			c0.212-0.213,0.459-0.54,0.741-0.981c-0.354-0.566-0.503-0.981-0.459-1.237c-0.238-0.283-0.591-1.088-1.059-2.431l0.388-0.142
@@ -173,19 +160,16 @@
 </span> 
 </a> 
 </div></div>
-                <div class="col text-right p-0" style="padding-top: 15px;">
-                    <p class="text-center text-md-right small copyrights" style="color: #fff;">جروس كيم للكيماويات المتطورة&nbsp;©<span class="current-year"><?php echo date("Y"); ?></span>
-                    </p>
-                </div>
             </div>
         </div>
     </footer>
     <script src="assets/js/jquery.min.js?h=83e266cb1712b47c265f77a8f9e18451"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js?h=7c038681746a729e2fff9520a575e78c"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="assets/js/script.min.js?h=127d4f1d8ddfdb53c2c3e7a47f19625d"></script>
+    <script src="assets/js/script.min.js?h=56feb24b5175be8e049587ce2dd575b0"></script>
 </body>
 
 </html>

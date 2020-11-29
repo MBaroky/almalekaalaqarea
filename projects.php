@@ -1,55 +1,9 @@
 <?php include 'header.php'; ?>
 
-    <section class="page-section clearfix no-padding" style="margin: 0;">
-        <div class="container-fluid">
-            <div class="row row-cols-1">
-                <div class="col text-center no-padding">
-                    <div class="flexslider" data-animation="fade" data-control-nav="false" style="height: auto;" data-pause-on-action="false" data-direction-nav="false">
-                        <ul class="list-unstyled slides" style="height: auto;display: block;">
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/slid-maleka02-1920w.png?h=1cc51198471fbed5befd6b67be6846e2">
-                                <div class="color-overlay"></div>
-                                <div class="slide-inner">
-                                    <div class="text-center text-wrapper">
-                                        <h2 class="slide-title"><strong>باترى هوم للاطارات والبطاريات</strong></h2>
-                                        <p class="text-center slide-text">انطلق بلا قلق<br>نهدف الي خلق علاقات راسخة مع عملاؤنا <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
-                                </div>
-                            </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/ezgif.com-gif-maker%20(2).jpg?h=cfc58c8f1dd532fbc1948de913c630f7">
-                                <div class="color-overlay"></div>
-                                <div class="slide-inner">
-                                    <div class="text-center text-wrapper">
-                                        <h2 class="slide-title"><strong>باترى هوم للاطارات والبطاريات</strong></h2>
-                                        <p class="text-center slide-text">انطلق بلا قلق<br>باتري هوم تضمن منتجاتها ضد عيوب الصناعة <br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
-                                </div>
-                            </li>
-                            <li class="d-inline-flex justify-content-center align-items-center"><img class="img-fluid" src="assets/img/slid-maleka01-1920w.png?h=5970481139c885e284adca2e4faf3b45">
-                                <div class="color-overlay"></div>
-                                <div class="slide-inner">
-                                    <div class="text-center text-wrapper">
-                                        <h2 class="slide-title"><strong>باترى هوم للاطارات والبطاريات</strong></h2>
-                                        <p class="text-center slide-text">انطلق بلا قلق<br>أطار عربيتك = أمنك وأمن عائلتك<br></p><a class="btn btn-primary btn-lg border rounded-0 main-button slide-button no-border" role="button" href="#">تخفيضات 10%</a></div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div><span class="abs-center" style="z-index: 10;"><img src="assets/img/name-company-0dabc692.png?h=10513b69072b118e0a4458e263a80400"></span></div>
-            </div>
-        </div>
-    </section>
-    <section class="text-center" style="z-index: 15;position: relative;">
-        <div class="container">
-            <div class="row">
-                <div class="col text-center bottom" style="background-color: #CD4847;padding: 40px;margin-top: -90px;background-image: url(&quot;assets/img/sandy-texture.png?h=34f2c7eb94389e2c1febe57691378dbc&quot;);">
-                    <h3 class="text-white"><strong>عن الشركة</strong><br></h3>
-                    <hr style="width: 50px;border: 1px solid white;">
-                    <p class="lead text-white" style="width: 740px;">شركه الملكة العقارية تأسست سنة 2001.<br></p>
-                </div>
-            </div>
-        </div>
-    </section>
     <section style="padding: 70px 30px;">
         <div class="container">
             <div class="row rtl">
-                <div class="col-12" data-aos="slide-right" data-aos-once="true">
+                <div class="col-12">
                     <h1 class="main-color"><strong>وتعمل الشركة فى المجالات التالية</strong><br></h1>
                     <hr style="width: 50px;border: var(--main-color) 2px solid;">
                 </div>

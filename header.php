@@ -18,7 +18,7 @@
     <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
     <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
     <link rel="icon" type="image/png" sizes="252x170" href="assets/img/logoo-maleka.png?h=2b4cbcbaa47bfa089182dbf6bf9788bc">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css?h=d5c1352eb7d995422275c58abdef2b18">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css?h=de3721cf7b383f81e1332ec7e5e3353a">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cairo">
@@ -26,9 +26,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,900">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
-    <link rel="stylesheet" href="assets/fonts/line-awesome.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
-    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
-    <link rel="stylesheet" href="assets/css/styles.min.css?h=5b48a8ae2683379f43acd53876f8557c">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css?h=2c0fc24b3d3038317dc51c05339856d0">
+    <link rel="stylesheet" href="assets/css/styles.min.css?h=f23a5e5159b4f047e72ea18aee502c63">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
@@ -44,7 +44,7 @@ function isMobile() {
 ?>
 
 
-    <header id="main-header" style="border-top: 6px #cc3e3d solid;">
+    <header id="main-header" style="border-top: 6px var(--main-color) solid;">
         <div class="container" style="background-color: #fff;">
             <div class="row align-items-stretch justify-content-md-start rtl">
                 <div class="col-3 col-md-5 d-flex d-md-block justify-content-end">
@@ -54,6 +54,7 @@ function isMobile() {
                                 style="margin-top: 0;">
                                 <ul class="nav navbar-nav text-right p-0" id="parentNav">
                                     <li class="nav-item text-center <?= ($activePage == 'index') ? 'active':''; ?>" role="presentation"><a class="nav-link float-none main-button" href="index.php"><strong>الرئيسية</strong></a></li>
+                                    <li class="nav-item text-center <?= ($activePage == 'projects') ? 'active':''; ?>" role="presentation"><a class="nav-link float-none main-button" href="projects.php"><strong>المشروعات</strong><br></a></li>
                                     <li class="nav-item text-center pl-0 <?= ($activePage == 'contact') ? 'active':''; ?>" role="presentation"><a class="nav-link main-button" href="contact.php"><strong>اتصل بنا</strong></a></li>
                                 </ul>
                             </div>
