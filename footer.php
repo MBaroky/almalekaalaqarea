@@ -19,18 +19,16 @@
                 <div class="col-md-3 text-center d-inline-block d-sm-flex flex-column align-self-start justify-content-sm-center">
                     <h5><strong>اتصل بنا</strong><br></h5>
                     <hr style="width: 50px;border: 1px solid white;">
-                    <h6><strong>التليفون الارضى</strong><br></h6><a class="btn text-center text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="tel:0221923161" style="display: inline-block;"
-                        target="_blank"><span style="display: inline-block;">0221923161<br></span></a>
-                    <h6 style="display: block;"><strong>خدمه العملاء</strong><br></h6><a class="btn text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="tel:01202855556" style="display: inline-block;" target="_blank"><span>01202855556<br></span></a>
-                    <a
-                        class="btn text-white border rounded-circle d-flex float-left align-items-center justify-content-md-center b-0 s-0 ltr" role="button" href="<?= (isMobile()) ? 'https://wa.me/201202855556':'https://web.whatsapp.com/send?phone=201202855556'; ?>"
-                        style="display: inline-block;max-width: 100%;" target="_blank"><img src="assets/img/svg-whatsapp.svg?h=abfc4958e6da89bfaddae74481deb971" style="<?= (isMobile()) ? 'width: 26px;height: 50px;margin-right: 10px;':'width: 50px;height: 50px;margin-right: 10px;'; ?>"><span>+201202855556<br></span></a>
-                </div>
-                <div class="col-md-3 text-center d-inline-block align-self-start">
+                    <h6><strong>التليفون الارضى</strong><br></h6><a class="btn text-white b-0 s-0 ltr" role="button" href="tel:0221923161" style="display: inline-block;width: 100%;" target="_blank"><span style="display: inline-block;">0221923161<br></span></a>
+                    <h6
+                        style="display: block;"><strong>خدمه العملاء</strong><br></h6><a class="btn text-white b-0 s-0 ltr" role="button" href="tel:01202855556" style="display: inline-block;width: 100%;" target="_blank"><span>01202855556<br></span></a><a class="btn text-white b-0 s-0 ltr"
+                            role="button" href="<?= (isMobile()) ? 'https://wa.me/201202855556':'https://web.whatsapp.com/send?phone=201202855556'; ?>" style="display: inline-block;max-width: 100%;" target="_blank"><img src="assets/img/svg-whatsapp.svg?h=abfc4958e6da89bfaddae74481deb971" style="<?= (isMobile()) ? 'width: 26px;height: 50px;margin-right: 10px;':'width: 50px;height: 50px;margin-right: 10px;'; ?>"><span>+201202855556<br></span></a></div>
+                <div
+                    class="col-md-3 text-center">
                     <h5><strong>العنوان</strong><br></h5>
                     <hr style="width: 50px;border: 1px solid white;">
                     <p class="text-white">بجوار محطة مترو عمر بن الخطاب، الدور الثالث، مكتب رقم 305</p><button class="btn text-white d-md-flex align-items-md-center" type="button" style="background-color: #EC0707;margin-top: 20px;border-radius: 30px;"><span>&nbsp; إعرف الطريق&nbsp;&nbsp;</span><i class="fa fa-map-marker" style="margin-right: 10px;font-size: 26px;"></i></button></div>
-            </div>
+        </div>
         </div>
         <div class="container">
             <div class="row row-cols-1 row-cols-md-2 d-md-flex justify-content-md-center">
