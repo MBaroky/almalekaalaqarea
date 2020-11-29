@@ -49,7 +49,7 @@
     <section style="padding: 70px 30px;">
         <div class="container">
             <div class="row rtl">
-                <div class="col-12" data-aos="slide-right" data-aos-once="true">
+                <div class="col-12" data-aos="slide-right" data-aos-duration="1600" data-aos-once="true">
                     <h1 class="main-color"><strong>وتعمل الشركة فى المجالات التالية</strong><br></h1>
                     <hr style="width: 50px;border: var(--main-color) 2px solid;">
                 </div>
