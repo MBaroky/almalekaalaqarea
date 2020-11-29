@@ -82,7 +82,7 @@
         </div>
     </section>
     <section style="padding: 0;background-color: var(--main-color);">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row rtl">
                 <div class="col-md-6" style="padding-top: 40px;padding-bottom: 40px;">
                     <h5 class="text-right text-white"><strong>مشروعات المدينة وفقا لهيئة المجتمعات العمرانية</strong><br></h5>

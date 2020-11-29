@@ -1,6 +1,6 @@
     <!--start of footer-->
     <footer class="text-white text-center" style="background-color: var(--main-color);padding: 10px 0;">
-        <div class="container-fluid py-3" style="border-bottom: 1px solid white;">
+        <div class="container py-3">
             <div class="row">
                 <div class="col-md-3 text-center d-inline-block align-self-start">
                     <h5><strong>شارك موقعنا على</strong></h5>
@@ -30,7 +30,7 @@
                     <p class="text-white">بجوار محطة مترو عمر بن الخطاب، الدور الثالث، مكتب رقم 305</p><button class="btn text-white d-md-flex align-items-md-center" type="button" style="background-color: #EC0707;margin-top: 20px;border-radius: 30px;"><span>&nbsp; إعرف الطريق&nbsp;&nbsp;</span><i class="fa fa-map-marker" style="margin-right: 10px;font-size: 26px;"></i></button></div>
         </div>
         </div>
-        <div class="container">
+        <div class="container-fluid" style="border-top: 1px solid white;">
             <div class="row row-cols-1 row-cols-md-2 d-md-flex justify-content-md-center">
                 <div class="col-12 text-left p-0">
                     <p class="text-center small copyrights" style="color: #fff;">جميع الحقوق محفوظة | الملكة العقارية&nbsp;©<span class="current-year"><?php echo date("Y"); ?></span>
