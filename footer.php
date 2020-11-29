@@ -167,7 +167,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="assets/js/script.min.js?h=56feb24b5175be8e049587ce2dd575b0"></script>
+    <script src="assets/js/script.min.js?h=1a2b1dfbef7b09afea7c3216b4a3e082"></script>
 </body>
 
 </html>
