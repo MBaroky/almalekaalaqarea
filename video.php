@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
-    <div class="card" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/slid-maleka02-1920w.png?h=1cc51198471fbed5befd6b67be6846e2">
-        <div class="card-img-overlay overlay" style="background: rgba(0,0,0,0.7);"></div>
+    <div class="card d-flex d-sm-flex justify-content-center align-items-center" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/slid-maleka02-1920w.png?h=1cc51198471fbed5befd6b67be6846e2">
+        <div class="card-img-overlay d-sm-flex overlay" style="background: rgba(0,0,0,0.7);"></div>
     </div>
     <section id="videos" style="padding: 30px 30px;">
         <div class="container">

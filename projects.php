@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
-    <div class="card" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/ezgif.com-gif-maker%20(2).jpg?h=cfc58c8f1dd532fbc1948de913c630f7">
-        <div class="card-img-overlay overlay" style="background: rgba(0,0,0,0.7);"></div>
+    <div class="card d-flex d-sm-flex justify-content-center align-items-center" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/ezgif.com-gif-maker%20(2).jpg?h=cfc58c8f1dd532fbc1948de913c630f7">
+        <div class="card-img-overlay d-sm-flex overlay" style="background: rgba(0,0,0,0.7);"></div>
     </div>
     <section style="padding: 20px 30px;background-color: rgba(236,236,236,1);">
         <div class="container">

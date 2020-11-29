@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-    <div class="card" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/slid-maleka01-1920w.png?h=5970481139c885e284adca2e4faf3b45">
+    <div class="card d-flex d-sm-flex justify-content-center align-items-center" style="position: relative;height: 227px;overflow: hidden;"><img class="card-img w-100 d-block" src="assets/img/slid-maleka01-1920w.png?h=5970481139c885e284adca2e4faf3b45">
         <div class="card-img-overlay overlay" style="background: rgba(0,0,0,0.7);"></div>
     </div>
     <section class="text-center">
